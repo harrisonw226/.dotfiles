@@ -1,5 +1,6 @@
 
 background = #011627
+background-opacity = 0.95
 foreground = #bdc1c6
 selection-background = #b2ceee
 selection-foreground = #080808
